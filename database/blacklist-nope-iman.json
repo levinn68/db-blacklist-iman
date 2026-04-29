@@ -19,7 +19,12 @@
       "note": "BUKPAL 3K"
     }
   ],
-  "bukpal_5k": [],
+  "bukpal_5k": [
+    {
+      "number": "085730106623",
+      "note": "BUKPAL 5K"
+    }
+  ],
   "bukpal_10k": [],
   "cheat": [],
   "fakewin": []
