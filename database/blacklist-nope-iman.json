@@ -4,5 +4,10 @@
   "bukpal_5k": [],
   "bukpal_10k": [],
   "cheat": [],
-  "fakewin": []
+  "fakewin": [
+    {
+      "number": "0887836033746",
+      "note": ".adb final"
+    }
+  ]
 }
