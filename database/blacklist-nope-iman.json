@@ -1,23 +1,26 @@
 {
-  "bukpal": {
-    "2k": [
-      {
-        "number": "6282261032964",
-        "note": "BUKPAL 2K"
-      },
-      {
-        "number": "6283101902868",
-        "note": "BUKPAL 2K"
-      },
-      {
-        "number": "6285141696775",
-        "note": "BUKPAL 2K"
-      }
-    ],
-    "3k": [],
-    "5k": [],
-    "10k": []
-  },
+  "bukpal_2k": [
+    {
+      "number": "082261032964",
+      "note": "BUKPAL 2K"
+    },
+    {
+      "number": "083101902868",
+      "note": "BUKPAL 2K"
+    },
+    {
+      "number": "085141696775",
+      "note": "BUKPAL 2K"
+    }
+  ],
+  "bukpal_3k": [],
+  "bukpal_5k": [
+    {
+      "number": "083193126331",
+      "note": "BUKPAL 5K"
+    }
+  ],
+  "bukpal_10k": [],
   "cheat": [],
   "fakewin": []
 }
