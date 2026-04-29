@@ -1,13 +1,13 @@
 {
-  "bukpal_2k": [],
+  "bukpal_2k": [
+    {
+      "number": "0887836033746",
+      "note": "BUKPAL 2K"
+    }
+  ],
   "bukpal_3k": [],
   "bukpal_5k": [],
   "bukpal_10k": [],
   "cheat": [],
-  "fakewin": [
-    {
-      "number": "0887836033746",
-      "note": "final"
-    }
-  ]
+  "fakewin": []
 }
